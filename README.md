@@ -342,8 +342,7 @@ cd backend && gunicorn app:app -w 4 -b 0.0.0.0:4000
 
 ---
 
-### Happy Coding! 🚀
-If any of my projects inspire or help you, feel free to clone, fork, and contribute.
-
 ⭐ Don't forget to star the repositories if you find them useful!
+<div align="center">
+<sub>Built by <a href="https://github.com/vishnu-murukan">Vishnu Murukan</a></sub>
 </div>
